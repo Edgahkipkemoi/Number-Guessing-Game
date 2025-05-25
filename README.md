@@ -48,7 +48,7 @@ number-guessing-game/
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
+   https://github.com/Edgahkipkemoi/Number-Guessing-Game.git
 Open the index.html file in your web browser.
 
 Start playing!

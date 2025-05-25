@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(223, 132, 13);
+}
+
+p {
+  font-size: 24px;
+  color: white;
+}
+#container {
+  background-color: rgb(78, 221, 6);
+  text-align: center;
+  border: 5px solid white;
+  height: 270px;
+  width: 750px;
+  margin: auto;
+}
+
+input {
+  width: 100px;
+  margin: 25px auto;
+}
+
+#btn {
+  background-color: blueviolet;
+  color: white;
+  margin: 25px auto auto 5px;
+}
